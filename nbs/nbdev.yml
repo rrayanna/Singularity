@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Singularity"
+  site-url: "https://rrayanna.github.io/Singularity"
+  description: "Singularity IT Solutions"
+  repo-branch: main
+  repo-url: "https://github.com/rrayanna/Singularity"
